@@ -3,7 +3,13 @@
 - 🔭 I’m currently working as a Software Developer @ [Willz](https://www.willz.cars/)
 - 🌱 I’m currently improving my frontend skills, but also messing a little bit with backend 
 - 📫 Find me at: 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaprados/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gapraado/)
+
+<div>
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gapraado/)  
+  
+</div>
+
 
 
 ### I have a few projects gathered in an organization, you can check them [here](https://github.com/gabriel-devco)
