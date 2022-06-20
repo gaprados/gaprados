@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Developer @ [Willz](https://www.willz.cars/)
+- 🔭 I’m a Software Developer @ [Willz](https://www.willz.cars/)
 - 🌱 I’m currently improving my frontend skills, but also messing a little bit with backend 
 - 📫 Find me at: 
 
