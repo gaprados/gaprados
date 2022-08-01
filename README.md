@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Software Developer @ [Willz](https://www.willz.cars/)
-- 🌱 I’m currently improving my frontend skills, but also messing a little bit with backend 
+- 🌱 I’m always improving my frontend skills, but currently focusing in backand and mobile too! 
 - 📫 Find me at: 
 
 <div>
