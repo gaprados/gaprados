@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Software Developer @ [Willz](https://www.willz.cars/)
+- 🔭 I’m a Software Developer @ Localiza Labs
 - 🌱 I’m always improving my frontend skills, but currently focusing on backend and mobile too! 
 - 📫 Find me at: 
 
