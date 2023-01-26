@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<b>Hey! I'm Gabriel, Web Developer</b>
+<b>Hey! I'm Gabriel, Software Developer</b>
 </h1>
 
 ## <b>👨🏽‍💻 About</b>
