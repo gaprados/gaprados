@@ -6,6 +6,7 @@
 ## <b>👨🏽‍💻 About</b>
 
 - I am 26 years old from Brasília, Brazil
+- My specialty is the front end, but I have experience and solid knowledge in back end and mobile
 - I am currently pursuing a Bachelor's degree in Software Engineering
 - I work as a Software Developer at Localiza Labs
 
