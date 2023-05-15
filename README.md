@@ -5,10 +5,10 @@
 
 ## <b>👨🏽‍💻 About</b>
 
-- I am 26 years old from Brasília, Brazil
+- I am 27 years old from Brasília, Brazil
 - My specialty is the front end, but I have experience and solid knowledge in back end and mobile
 - I am currently pursuing a Bachelor's degree in Software Engineering
-- I work as a Software Developer at Localiza&Co
+- I work as a Mid Software Developer at Localiza&Co
 
 <div align="center">
 <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width = 250px>
